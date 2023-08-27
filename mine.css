@@ -883,7 +883,6 @@ body {
 }
 
 .statistic_big_number {
-font-weight: 300;
 font-size: 4vw;
 }
 
@@ -1111,7 +1110,6 @@ padding: 2vw;
 
 .statistic_big_number {
 font-family: 'Montserrat';
-font-weight: 300;
 font-size: 7vw;
 
 align-items: center;
